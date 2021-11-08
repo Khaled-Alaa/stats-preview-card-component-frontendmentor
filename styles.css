@@ -70,7 +70,7 @@ body {
   padding-right: 2.5rem;
 }
 
-.card-container__insight-item header {
+.card-container__insight-item h3 {
   font-size: x-large;
   font-weight: bold;
 }
